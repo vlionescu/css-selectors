@@ -27,4 +27,3 @@ export default [
     {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13},
     {selector: '.active', question: 'The active menu button', html: ex14}
 ];
-
