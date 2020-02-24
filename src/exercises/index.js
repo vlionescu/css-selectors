@@ -6,13 +6,11 @@ import ex5 from './ex5.html';
 import ex6 from './ex6.html';
 import ex7 from './ex7.html';
 import ex8 from './ex8.html';
-<<<<<<< HEAD
 import ex9 from './ex9.html';
-=======
 import exercise10 from './exercise10.html';
 import ex13 from './ex13.html';
 import ex14 from './ex14.html';
->>>>>>> 11b0d8ca08e22879d846de509771a5ddc0afae4c
+
 
 export default [
     {selector: '#main', question: 'The element that has the id of "main"', html: ex1},
@@ -23,13 +21,10 @@ export default [
     {selector: 'button:disabled', question: 'The recover password button', html: ex6},
     {selector: '.angular-links a', question: 'The links for angular', html: ex7},
     {selector: 'input[type="checkbox"]:checked:disabled', question: 'The checkbox that is selected and checked', html: ex8},
-<<<<<<< HEAD
-    {selector: 'input[name="firstName"][id="firstName"][placeholder="Enter you email here..."]', question: "Select the email field", html: ex9}
-=======
+    {selector: 'input[name="firstName"][id="firstName"][placeholder="Enter you email here..."]', question: "Select the email field", html: ex9},
     {selector: 'ul li:last-child > a', question: 'Selelct the go home link from the to do list', html: exercise10},
-    {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13}
     {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13},
-    {selector: '.active', question: 'The active menu button', html: ex14},
->>>>>>> 11b0d8ca08e22879d846de509771a5ddc0afae4c
+    {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13},
+    {selector: '.active', question: 'The active menu button', html: ex14}
 ];
 
