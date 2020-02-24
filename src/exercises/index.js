@@ -20,8 +20,6 @@ export default [
     {selector: '.angular-links a', question: 'The links for angular', html: ex7},
     {selector: 'input[type="checkbox"]:checked:disabled', question: 'The checkbox that is selected and checked', html: ex8},
     {selector: 'ul li:last-child > a', question: 'Selelct the go home link from the to do list', html: exercise10},
-    {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13}
     {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13},
     {selector: '.active', question: 'The active menu button', html: ex14},
 ];
-
