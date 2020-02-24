@@ -3,9 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="928ee4ae-43fb-46e7-81ba-311c2e03dc33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/exercises/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/exercises/ex9.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/ex9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/exercise10.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/exercise10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/index.js" afterDir="false" />
+    </list>
+>>>>>>> 78709c69ea1ff8eb5fb350449e54b5b146bb6136
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +42,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1YAilXUiAGvhbwo6AnjYgoFiI9u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -59,18 +72,6 @@
       <recent name="C:\Users\vlad.ionescu\Desktop\create-react-app-customized\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -82,7 +83,11 @@
       <option name="presentableId" value="Default" />
       <updated>1582391950843</updated>
       <workItem from="1582391952206" duration="19226000" />
+<<<<<<< HEAD
       <workItem from="1582540387968" duration="2124000" />
+=======
+      <workItem from="1582540375500" duration="2042000" />
+>>>>>>> 78709c69ea1ff8eb5fb350449e54b5b146bb6136
     </task>
     <servers />
   </component>
