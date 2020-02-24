@@ -8,6 +8,7 @@ import ex7 from './ex7.html';
 import ex8 from './ex8.html';
 import exercise10 from './exercise10.html';
 import ex13 from './ex13.html';
+import ex14 from './ex14.html';
 
 export default [
     {selector: '#main', question: 'The element that has the id of "main"', html: ex1},
@@ -20,5 +21,7 @@ export default [
     {selector: 'input[type="checkbox"]:checked:disabled', question: 'The checkbox that is selected and checked', html: ex8},
     {selector: 'ul li:last-child > a', question: 'Selelct the go home link from the to do list', html: exercise10},
     {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13}
+    {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13},
+    {selector: '.active', question: 'The active menu button', html: ex14},
 ];
 
