@@ -24,6 +24,5 @@ export default [
     {selector: 'input[name="firstName"][id="firstName"][placeholder="Enter you email here..."]', question: "Select the email field", html: ex9},
     {selector: 'ul li:last-child > a', question: 'Selelct the go home link from the to do list', html: exercise10},
     {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13},
-    {selector: 'option[value="Mercedes"]', question: 'Select the Mercedes car', html: ex13},
     {selector: '.active', question: 'The active menu button', html: ex14}
 ];
