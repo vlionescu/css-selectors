@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/selectors.iml" filepath="$PROJECT_DIR$/.idea/selectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/create-react-app-customized.iml" filepath="$PROJECT_DIR$/.idea/create-react-app-customized.iml" />
     </modules>
   </component>
 </project>

@@ -9,7 +9,7 @@ module.exports = function(config) {
   // (last one must remain as the "file-loader")
   let loaderList = config.module.rules[1].oneOf;
   loaderList.splice(loaderList.length - 1, 0, {
-    test: /\.html$/i,
-    loader: 'html-loader',
+    test: /\.scss$/,
+    use: ["style-loader", "css-loader", "sass-loader"]
   });
 }

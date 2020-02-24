@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f580cd6f-0eac-4064-a3da-e5e242b5f07d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config-overrides.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/customized-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="928ee4ae-43fb-46e7-81ba-311c2e03dc33" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,41 +11,48 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/selectors.iml" />
+        <option value="$PROJECT_DIR$/.idea/create-react-app-customized.iml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1YAdJ6qotN5Uw3uCZZXFklNUOPt" />
+  <component name="ProjectId" id="1YAilXUiAGvhbwo6AnjYgoFiI9u" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../create-react-app-customized" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\vlad.ionescu\Desktop\internship 2020\selectors\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vlad.ionescu\Desktop\create-react-app-customized\src\exercises" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vlad.ionescu\Desktop\internship 2020\selectors" />
-      <recent name="C:\Users\vlad.ionescu\Desktop\internship 2020\selectors\src" />
+      <recent name="C:\Users\vlad.ionescu\Desktop\create-react-app-customized\src\exercises" />
+      <recent name="C:\Users\vlad.ionescu\Desktop\create-react-app-customized\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,12 +72,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f580cd6f-0eac-4064-a3da-e5e242b5f07d" name="Default Changelist" comment="" />
-      <created>1582389257262</created>
+      <changelist id="928ee4ae-43fb-46e7-81ba-311c2e03dc33" name="Default Changelist" comment="" />
+      <created>1582391950843</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582389257262</updated>
-      <workItem from="1582389258401" duration="2841000" />
+      <updated>1582391950843</updated>
+      <workItem from="1582391952206" duration="19226000" />
     </task>
     <servers />
   </component>
