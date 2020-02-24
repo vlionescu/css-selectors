@@ -6,6 +6,7 @@ import ex5 from './ex5.html';
 import ex6 from './ex6.html';
 import ex7 from './ex7.html';
 import ex8 from './ex8.html';
+import exercise10 from './exercise10.html';
 
 export default [
     {selector: '#main', question: 'The element that has the id of "main"', html: ex1},
@@ -16,4 +17,6 @@ export default [
     {selector: 'button:disabled', question: 'The recover password button', html: ex6},
     {selector: '.angular-links a', question: 'The links for angular', html: ex7},
     {selector: 'input[type="checkbox"]:checked:disabled', question: 'The checkbox that is selected and checked', html: ex8},
+    {selector: 'ul li:last-child > a', question: 'Selelct the go home link from the to do list', html: exercise10}
 ];
+
